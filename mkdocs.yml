@@ -8,14 +8,14 @@ theme:
     - content.action.view
     - content.code.copy
   palette:
-    - scheme: default
+  - scheme: default
     primary: red
     accent: indigo
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to light mode
 
-    - scheme: slate
+  - scheme: slate
     primary: indigo
     accent: red
     toggle:
