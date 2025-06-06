@@ -1,7 +1,0 @@
----
-date: 2025-06-05
----
-
-# Example
-
-This is an example blog post.
