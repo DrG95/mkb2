@@ -11,6 +11,7 @@ theme:
     scheme: preference
     primary: red
     accent: indigo
+  user-color-mode-toggle: true
 plugins:
   - blog:
       blog_dir: blog
