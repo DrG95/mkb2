@@ -1,5 +1,5 @@
-site_name: palla
-repo_url: https://github.com/Drg95/palla
+site_name: MKB2
+repo_url: https://github.com/Drg95/mkb2
 edit_uri: edit/mkdocs/docs/
 theme:
   name: material
@@ -8,7 +8,9 @@ theme:
     - content.action.view
     - content.code.copy
   palette:
+    scheme: preference
     primary: red
+    accent: indigo
 plugins:
   - blog:
       blog_dir: blog
