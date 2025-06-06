@@ -3,6 +3,7 @@
 ### *What is a mechanical keyboard anyways?*
 
 A PC Keyboard can belong to one of two main categories, differentiating themselves by their actuation mechanism, being:
+
 * membrane
 * mechanical
 
