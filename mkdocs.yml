@@ -8,10 +8,19 @@ theme:
     - content.action.view
     - content.code.copy
   palette:
-    scheme: preference
+    - scheme: preference
     primary: red
     accent: indigo
-  user-color-mode-toggle: true
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: "Switch to light mode"
+  palette:
+    - scheme: iceberg
+    primary: indigo
+    accent: red
+    toggle:
+      icon: material/toggle-switch
+      name: "Switch to dark mode"
 plugins:
   - blog:
       blog_dir: blog
