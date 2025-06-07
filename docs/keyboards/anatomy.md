@@ -31,4 +31,4 @@ Short for stabilizers, those contraptions are used to support longer keys (such 
 
 ## Cases
 
-Actually optional in most case, but you don't usually want to skip on one (unless you're going for a specific barebone look). It helps in keeping everything well tied together, and can be made of plastic, resin, metal (aluminum case are pretty popular) or, why not, even wood for more premium builds (plastic and resin being the most common as they are cheap to manufacture, even at home)
+Actually optional in most cases (pun intended), but you don't usually want to skip on one (unless you're going for a specific barebone look). It helps in keeping everything well tied together, and can be made of plastic, resin, metal (aluminum case are pretty popular) or, why not, even wood for more premium builds (plastic and resin being the most common as they are cheap to manufacture, even at home)
