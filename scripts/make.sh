@@ -6,6 +6,6 @@ if [ -z "$@" ]
 then set build
 fi
 
-cp ./index.md ./docs/index.md
+# cp ./index.md ./docs/index.md
 
 mkdocs $@
